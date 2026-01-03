@@ -16,6 +16,27 @@ A modern, bilingual (English/বাংলা) blood donation management platform
 - **📱 Responsive Design**: Optimized for desktop, tablet, and mobile devices
 - **🎯 Gamification**: Achievement badges and reward system to encourage donations
 
+## 📸 Project Screenshots
+
+
+
+### 📊 Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### 🗺️ Emergency Map
+![Emergency Map](screenshots/emergencymap.png)
+
+### 💬 Chat System
+![Chat](screenshots/chatsystem.png)
+
+### 🏥 Blood Inventory
+![Inventory](screenshots/inventory.png)
+
+### 🤖 Ai Assistant
+![Ai Assistant](screenshots/aiassistant.png)
+
+
+
 ## 🚀 Quick Start
 
 ### Prerequisites
